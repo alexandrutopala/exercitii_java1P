@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Exercitiu2
+comment0.text=\n\ Pentru\ un\ text\ dat,\ se\ cere\ afisarea\ numarului\ de\ aparitii\ pentru\n\ fiecare\ cuvant.\n\ \n\ Solutia\ va\ fi\ scrisa\ in\ metoda\:\ Exercitiu2\#countWords\n\ \n\ Exemplu\:\ pentru\ textul\ "a\ fi\ sau\ a\ nu\ fi"\ se\ va\ afisa\:\n\ "a"\ \:\ 2\n\ "fi"\ \:\ 2\n\ "sau"\ \:\ 1\n\ "nu"\ \:\ 1\n\ (nu\ neaparat\ in\ aceasta\ ordine\ sau\ sub\ acest\ format)\n\ \n\ Indicatie\:\ expresia\ regulata\ care\ poate\ fi\ folosita\ pentru\ separarea\n\ cuvintelor\ este\:\ "\\\\W+"\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=text
+comment2.target=java.util.Map\ countWords(java.lang.String)
+numComments=3

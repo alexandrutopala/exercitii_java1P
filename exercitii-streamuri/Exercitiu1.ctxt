@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Exercitiu1
+comment0.text=\n\ Se\ da\ o\ lista\ de\ numere\ intregi.\n\ Se\ cere\ afisarea\ patratelor\ perfecte\ din\ lista,\ despartite\ prin\ virgula,\n\ ca\ String.\n\ \n\ Solutia\ va\ fi\ scrisa\ in\ metoda\ Exercitiu1\#getPerfectSquaresAsString\n\ \n\ Exemplu\:\ pentru\ lista\ [1,\ 3,\ 6,\ 4,\ 3,\ 4]\ se\ va\ afisa\:\ "1,4,4"\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numbers
+comment2.target=java.lang.String\ getPerfectSquaresAsString(java.util.List)
+numComments=3

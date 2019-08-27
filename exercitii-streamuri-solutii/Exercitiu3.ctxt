@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Exercitiu3
+comment0.text=\n\ Se\ da\ o\ lista\ de\ siruri\ de\ caractere.\ \n\ Se\ cere\ afisarea\ celei\ mai\ frecvente\ lungimi\ de\ sir\ de\ caractere.\n\ \n\ Solutia\ va\ fi\ scrisa\ in\ metoda\ Exercitiu3\#mostFrequentLength\n\ \n\ Exemplu\:\ pentru\ lista\ de\ siruri\ de\ caractere\:\ "aa",\ "b",\ "ccc",\ "dddd",\ "ee",\ \n\ se\ va\ afisa\:\ 2.\n\ \n\ OBS.\:\ daca\ sunt\ doua\ lungimi\ cu\ aceeasi\ frecventa,\ se\ va\ afisa\ oricare\ \n\ dintre\ ele\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=long\ mostFrequentLength(java.util.List)
+numComments=3

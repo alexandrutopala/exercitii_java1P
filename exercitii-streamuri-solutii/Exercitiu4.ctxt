@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Exercitiu4
+comment0.text=\n\ Se\ da\ o\ lista\ de\ angajati,\ care\ au\:\ un\ nume,\ o\ vechime\ (in\ ani)\ si\ un\ salariu.\n\ Se\ cere\ afisarea\ salariului\ mediu\ in\ functie\ de\ vechime.\n\ \n\ Solutia\ va\ fi\ scrisa\ in\ metoda\ Exercitiu4\#computeAverageSalariesByExperience\n\ \n\ Exemplu\:\ \n\ Pentru\ angajatii\:\ \n\ \ \ (nume\=Gigel,\ aniExperienta\=2,\ salariu\=7000)\n\ \ \ (nume\=Maria,\ aniExperienta\=3,\ salariu\=9000)\n\ \ \ (nume\=Costel,\ aniExperienta\=2,\ salariu\=6000)\n\ se\ va\ afisa\:\n\ \ \ 2\ \:\ 6500.0\ \n\ \ \ 3\ \:\ 9000.0\n\ (nu\ neaparat\ in\ aceasta\ ordine\ sau\ sub\ acest\ format)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=angajati
+comment2.target=java.util.Map\ computeAverageSalariesByExperience(java.util.List)
+numComments=3

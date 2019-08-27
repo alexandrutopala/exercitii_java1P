@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Exercitiu5
+comment0.text=\n\ Se\ da\ o\ lista\ de\ Angajati.\n\ Se\ cere\ sortarea\ lor\ astfel\:\ \n\ \ -\ descrescator\ dupa\ salariu\n\ \ -\ pentru\ cei\ cu\ acelasi\ salariu,\ descrescator\ dupa\ anii\ de\ experienta\n\ \ -\ pentru\ cei\ cu\ acelasi\ salariu\ si\ acelasi\ numar\ de\ ani\ de\ experienta,\ \n\ \ alfabetic\n\ \ \n\ \ Solutia\ se\ va\ scrie\ in\ metoda\ Exercitiu5\#sortAngajati\n\ \ \n\ \ Exemplu;\n\ \ Pentru\ angajatii\:\ \n\ \ \ (nume\=Gigel,\ aniExperienta\=2,\ salariu\=7000)\n\ \ \ (nume\=Maria,\ aniExperienta\=3,\ salariu\=9000)\n\ \ \ (nume\=Costel,\ aniExperienta\=2,\ salariu\=6000)\n\ \ \ (nume\=Costelus,\ aniExperienta\=2,\ salariu\=6000)\n\ \ se\ va\ afisa\:\n\ \ \ (nume\=Maria,\ aniExperienta\=3,\ salariu\=9000)\ \n\ \ \ (nume\=Gigel,\ aniExperienta\=2,\ salariu\=7000)\n\ \ \ (nume\=Costel,\ aniExperienta\=2,\ salariu\=6000)\n\ \ \ (nume\=Costelus,\ aniExperienta\=2,\ salariu\=6000)\n\ \ (nu\ neaparat\ sub\ acest\ format)\ \n\ \ \n\ \ HINT\:\ folositi\ metodele\ clasei\ java.util.Comparator\ aparute\ in\ Java\ 8\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=angajati
+comment2.target=java.util.List\ sortAngajati(java.util.List)
+numComments=3
